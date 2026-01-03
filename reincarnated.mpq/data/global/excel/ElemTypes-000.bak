@@ -1,0 +1,34 @@
+Elemental Type	Code
+None	
+Fire	fire
+Lightning	ltng
+Magic	mag
+Cold	cold
+Poison	pois
+Life Drain	life
+Mana Drain	mana
+Stamina Drain	stam
+Stun	stun
+Random	rand
+Burning	burn
+Freeze	frze
+Physical	phys
+Motley	motl
+unused15	u15
+unused16	u16
+unused17	u17
+unused18	u18
+unused19	u19
+unused20	u20
+unused21	u21
+unused22	u22
+unused23	u23
+unused24	u24
+unused25	u25
+unused26	u26
+unused27	u27
+unused28	u28
+unused29	u29
+unused30	u30
+unused31	u31
+Superstate	stat

@@ -1,0 +1,26 @@
+To use this feature, you must both provide the launcher with additional files/info
+It will work in conjunction with the Terror Zone system to provide real-time special events
+EventSchedule.txt - This file will contain the start/end times of the event, as well as the folder name to use
+EventName Folder - This folder will contain the modded event files and the preview image to use for it
+Event.png - This file should be place inside the individual event folder to be used as a preview for the player
+hd/global/local Folders - Include your modded files in the normal mod-folder structure to use for the event
+desecratedzones.json - This file is the main method which you can easily control more gameplay or event-related features:
+- Event Name
+- Event Type
+- Event Location(s)
+- Event Description 1-4
+- Event Link
+- Event Start/End Time
+- Event Message Announcement Times
+- Enabled Difficulties
+- Effected Map Levels
+- Min/Max Monster Level
+- Boosted Monster Level (+X from Player Level)
+- Player Difficulty (Can be higher than 8)
+- Experience Gain % (Can be negative)
+
+This file must always be placed in the event's hd/global/excel folder; it was left out so you'd see it
+Event-Related text, names, links, etc are displayed in the D2RLaunch window for the event
+Due to the live-editing from the app, and the event-based system of TZ; you can create some fairly unique events
+An example "EventSchedule" has been included, where this Event System managed a 48-hour mega-event, filled with 24 mini-events
+I have also left the text used for one of the events, just to give a realistic example of it
