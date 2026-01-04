@@ -364,9 +364,9 @@ item_meleeareadamage	361		1	7	16						1							21	0	7	0	16										1	domeleedama
 melee_area_maxrange	362		1	9														5	0	5	0																999	3		MeleeAreaMaxRange	MeleeAreaMaxRange										0
 melee_area_rangepercent	363		1	9														8	0	8	0																999	3		MeleeAreaRangePercent	MeleeAreaRangePercent										0
 charm_count	364		1	9		1					1							7	32	6	32																998	19		modCharmWeight	modCharmWeight										0
-corrupted	365		1	4														7	0	3	4																999	1	1	modPurified	modCorrupted										0
-corruptor	366		1	10														7	0	10	0																999	19		modCraftingPotential	modCraftingPotentialZero									2	0
-crafting_potential	367			9							1	1	0					7	32	6	32																999	19		modCraftingPotential	modCraftingPotentialZero										0
+corrupted	365		1	4														7	0	3	4																999	19		modPurified	modCorrupted										0
+corruptor	366		1	10														7	0	10	0																													2	0
+crafting_potential	367			9							1	1	0					7	32	6	0																999	19		modCraftingPotential	modCraftingPotentialZero										0
 missile_speed	368		1	9							1	1	0					7	32	8	32		1														88	19		modMissileSpeed	modMissileSpeed										0
 missile_damage	369		1	9							1	1	0					7	32	8	32		1														88	19		modMissileDamage	modMissileDamage										0
 mana_hidden	370		1	16														6	10	6	10			11			maxmana																								0
@@ -399,4 +399,4 @@ tempscroll_rand	396		1	9														7	0	6	0																														0
 damagepercent_temp	397		1	12											45	40		8	0	8	0											1																			0
 armorpercent_temp	398		1	11											47	20		9	0	10	0																														0
 timer	399		1	12																																														2	0
-tempered	400		1	2														3	0	3	4																999	19		modTempered	modTempered										0
+tempered	400		1	2														3	4	2	0																999	19		modTempered	modTempered										0

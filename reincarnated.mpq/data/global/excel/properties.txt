@@ -316,3 +316,4 @@ superprop3	1	21	item_nonclassskill		393	21	item_nonclassskill		398	21	item_noncl
 superprop4	1	21	item_nonclassskill		394	21	item_nonclassskill		399	21	item_nonclassskill		404	21	item_nonclassskill		409	21	item_nonclassskill		414	21	item_nonclassskill		419	21	item_nonclassskill		421						0
 superprop5	1	21	item_nonclassskill		395	21	item_nonclassskill		400	21	item_nonclassskill		405	21	item_nonclassskill		410	21	item_nonclassskill		415	21	item_aura		423	21	item_nonclassskill		422						0
 superprop5mon	1	21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill								0
+tempered	1	1	tempered																											Tempered NOT FOR USE 					0

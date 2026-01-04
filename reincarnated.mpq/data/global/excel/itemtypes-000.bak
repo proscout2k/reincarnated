@@ -9,9 +9,9 @@ Crossbow Quiver	xboq	misl	seco	5	id 0 lev6	0	1	rarm	larm		xbow	0	1	0	1		1	0	0	1	
 Player Body Part	play	misc		6	id 0 lev7	0	0					0	0	0	0			1	0	0	25	0	40	0	0	3			0							misc	0
 Herb	herb	misc		7	id 0 lev8	0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0							misc	0
 Potion	poti	misc		8	id 0 lev9	0	0					0	0	0	0			1	1	0	25	0	40	0	0	3			0							misc	0
-Ring	ring	misc	merc	9	id 0 lev10	0	1	rrin	lrin			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			5	invrin1	invrin2	invrin3	invrin4	invrin5		misc	0
+Ring	ring	misc	merc	9	id 0 lev10	0	1	rrin	lrin			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			6	invrin1	invrin2	invrin3	invrin4	invrin5	invrin	misc	0
 Elixir	elix	misc		10	id 0 lev11	0	0					0	0	0	0			0	1	0	25	0	40	0	0	3			0							misc	0
-Amulet	amul	misc	merc	11	id 0 lev12	0	1	neck	neck			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			3	invamu1	invamu2	invamu3				misc	0
+Amulet	amul	misc	merc	11	id 0 lev12	0	1	neck	neck			0	0	0	0	1	1	0	0	1	25	1	40	1	0	3			4	invamu1	invamu2	invamu3	invamu			misc	0
 Charm	char	misc		12	id 0 lev13	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			3	invch1	invch4	invch7				misc	0
 Not Used				13	id 0 lev14	0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0								0
 Boots	boot	armo	merc	14	id 0 lev15	1	1	feet	feet			0	0	0	0		1	0	0	2	25	3	40	3	0	3			0							armo	0

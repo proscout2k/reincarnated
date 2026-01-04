@@ -733,7 +733,7 @@ index	code_name	code_normal	sets_normal	sets_exceptional	sets_elite	uniques_norm
 732	or1	..\reincarnated/misc/currency/magic_orb						
 733	or2	..\reincarnated/misc/currency/rare_orb						
 734	wss	..\reincarnated/misc/currency/worldstone_shard						
-735	chs	..\reincarnated/misc/chest						
+735	afh	..\reincarnated/misc/currency/hammer_malus						
 736	or3	..\reincarnated/misc/currency/hammer_malus						
 737	or4	..\reincarnated/misc/currency/hammer_malus						
 738	or5	..\reincarnated/misc/currency/hellforge_tongs						

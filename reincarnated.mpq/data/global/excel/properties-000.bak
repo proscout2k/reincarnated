@@ -274,7 +274,7 @@ dmg%-melee-min	1	15	melee_mindamage_percent																											+#% Enhanc
 dmg%-melee-max	1	16	melee_maxdamage_percent																											+#% Enhanced Maximum Melee Damage NOT FOR USE		Min %	Max %		0
 corrupt	1	1	corrupted																											Corrupted NOT FOR USE 					0
 corruptnum	1	1	corruptor	1																										Corruptor Modifier NOT FOR USE		Min #	Max #		0
-purifynum	1	1	corruptor	1		36	corrupted	2	3																					Corruptor Modifier NOT FOR USE		Min #	Max #		0
+purifynum	1	1	corruptor	1		36	corrupted	2	2																					Corruptor Modifier NOT FOR USE		Min #	Max #		0
 tempering-potential	1	1	crafting_potential																											Crafting Potential NOT FOR USE		Min #	Max #		0
 curse-res	1	1	curse_resistance																											Curse Resistance					0
 extra-magi	1	1	passive_mag_mastery																											+#% to Magic Skill Damage		Min %	Max %		0
@@ -316,3 +316,4 @@ superprop3	1	21	item_nonclassskill		393	21	item_nonclassskill		398	21	item_noncl
 superprop4	1	21	item_nonclassskill		394	21	item_nonclassskill		399	21	item_nonclassskill		404	21	item_nonclassskill		409	21	item_nonclassskill		414	21	item_nonclassskill		419	21	item_nonclassskill		421						0
 superprop5	1	21	item_nonclassskill		395	21	item_nonclassskill		400	21	item_nonclassskill		405	21	item_nonclassskill		410	21	item_nonclassskill		415	21	item_aura		423	21	item_nonclassskill		422						0
 superprop5mon	1	21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill			21	item_nonclassskill								0
+tempered	1	1	tempered																											Corrupted NOT FOR USE 					0
