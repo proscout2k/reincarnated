@@ -3671,7 +3671,7 @@
     },
     {
         "afh": {
-            "asset": "..\\reincarnated/misc/currency/hammer_malus"
+            "asset": "..\\reincarnated/misc/currency/angelicforgehammer"
         }
     },
     {
@@ -3701,7 +3701,7 @@
     },
     {
         "cht": {
-            "asset": "..\\reincarnated/misc/currency/voidstone_relic"
+            "asset": "..\\reincarnated/misc/currency/chaoscatalyst"
         }
     },
     {
@@ -4055,18 +4055,48 @@
         }
     },
     {
-        "m00": {
+        "q00": {
             "asset": "charm/charm_small"
         }
     },
     {
-        "m01": {
+        "q01": {
             "asset": "gem/flawless_ruby"
         }
     },
     {
         "je1": {
             "asset": "gem/perfect_diamond"
+        }
+    },
+    {
+        "m01": {
+            "asset": "..\\reincarnated/misc/scroll/maps/mapboss"
+        }
+    },
+        {
+        "m02": {
+            "asset": "..\\reincarnated/misc/scroll/maps/mapboss"
+        }
+    },
+    {
+        "m03": {
+            "asset": "..\\reincarnated/misc/scroll/maps/mapboss"
+        }
+    },
+    {
+        "m04": {
+            "asset": "..\\reincarnated/misc/scroll/maps/mapboss"
+        }
+    },
+    {
+        "m05": {
+            "asset": "..\\reincarnated/misc/scroll/maps/mapboss"
+        }
+    },
+    {
+        "m05": {
+            "asset": "scroll/identify_scroll"
         }
     }
 ]

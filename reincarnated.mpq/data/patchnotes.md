@@ -1,6 +1,6 @@
 # Patch Notes
 
-## 0.1 Alpha – 2026-01-03
+## 0.1 Alpha – 2026-01-04
 
 ### Nowości
 - Mod działa teraz na **patchu 2.4**, co odblokowuje dodatkowe funkcje niedostępne w nowszych wersjach.

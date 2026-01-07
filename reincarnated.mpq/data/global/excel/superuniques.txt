@@ -66,3 +66,8 @@ Baal Subject 2	Baal Subject 2	unraveler5	62		23	0	0	3	3	0	1		21	21	21	Act 5 Cham
 Baal Subject 3	Baal Subject 3	baalhighpriest	63		17	0	0	5	5	0	1		36	36	36	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
 Baal Subject 4	Baal Subject 4	venomlord	64		6	0	0	8	8	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
 Baal Subject 5	Baal Subject 5	baalminion1	65		27	0	0	5	5	0	1		20	20	20	Act 5 Champ C	Act 5 (N) Champ C	Act 5 (H) Champ C	0
+Andariel Map	Andariel	andariel	66		0	0	0	0	0	1	1		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Duriel Map	Duriel	duriel	67		0	0	0	0	0	1	1		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Mephisto Map	Mephisto	mephisto	68		0	0	0	0	0	1	1		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Diablo Map	Diablo	diablo	69		0	0	0	0	0	1	1		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0
+Baal Map	Baal Crab	baalcrab	70		0	0	0	0	0	1	1		11	11	11	Act 1 Super A	Act 1 (N) Super A	Act 1 (H) Super A	0

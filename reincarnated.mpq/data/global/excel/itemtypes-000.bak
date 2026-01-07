@@ -149,7 +149,7 @@ Charms	chms	char		112	id 1 lev49	0	0					0	0	0	0			0	0	0	25	0	40	0	0	3			0						
 2-handed Amazon Spear	2asp	2han		146	id 2 lev19	1	1	rarm	larm			0	0	0	0		1	0	0	3	25	4	40	6	0	1		ama	0							weap	0
 1-handed Amazon Javelin	1aja	1han		147	id 2 lev20	1	1	rarm	larm			1	1	1	1		1	0	0	2	25	2	40	3	0	1		ama	0							misc	0
 2-handed Amazon Javelin	2aja	2han		148	id 2 lev21	1	1	rarm	larm			1	1	1	1		1	0	0	2	25	2	40	3	0	1		ama	0							misc	0
-Body Part Stack	orga	stac		149	id 2 lev22	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Body Part Stack	orga			149	id 2 lev22	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Crafting Scrolls B Tier	bcra	craf		150	id 2 lev23	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Crafting Scrolls A Tier	acra	craf		151	id 2 lev24	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 Crafting Scrolls S Tier	scra	craf		152	id 2 lev25	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0

@@ -1,13 +1,13 @@
 ﻿{
     "name": "reincarnated",
     "savepath": "reincarnated/",
-    "version": "0.0.2 Alpha"
+    "version": "0.1 Alpha"
 }
 /*
 --My Mod Details--
 Mod Download: https://github.com/proscout2k/reincarnated/archive/refs/heads/main.zip
 Mod Config Download: https://github.com/proscout2k/reincarnated/raw/refs/heads/main/reincarnated.mpq/modinfo.json
-Mod Version: 0.0.2 Alpha
+Mod Version: 0.1 Alpha
 News 1 Title: "Reincarnated TCP/IP Update"
 News 1 Message: ""
 News 2 Title: "READ ME OR ELSE"
@@ -16,6 +16,7 @@ News 2 Message: "".
 --General Options--
 Map Layouts: False
 UI Themes: False
+QoL Options: Disabled
 Customizations: Disabled
 Vault Access: False
 
@@ -28,4 +29,5 @@ Monster Stats Display: True
 --Author Links--
 Discord:
 Wiki:
+Patreon:
 */

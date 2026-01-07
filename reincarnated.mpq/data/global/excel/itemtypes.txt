@@ -156,8 +156,8 @@ Crafting Scrolls S Tier	scra	craf		152	id 2 lev25	0	0					0	0	0	1			1	0	0	25	0	4
 Mirror	mirr	char		153	id 2 lev26	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			0							misc	0
 superstate charm	m00+	misc		154	id 2 lev27	0	0					0	0	0	1			0	0	1	25	1	40	1	0	3			0							misc	0
 Jewel 6-Affix	jew6	jewl		155	id 2 lev28	0	0					0	0	0	0	1	1	0	0	0	25	0	40	0	0	3			6	invjw1	invjw2	invjw3	invjw4	invjw5	invjw6	misc	0
-a043	a043			156	id 2 lev29	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
-a044	a044			157	id 2 lev30	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Maps	maps	misc		156	id 2 lev29	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
+Maps Boss	mapb	maps		157	id 2 lev30	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 a045	a045			158	id 2 lev31	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 a046	a046			159	id 2 lev32	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0
 a047	a047			160	id 2 lev33	0	0					0	0	0	1			1	0	0	25	0	40	0	0	3			0							misc	0

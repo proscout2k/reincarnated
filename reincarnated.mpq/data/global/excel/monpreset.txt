@@ -46,6 +46,8 @@ Act	Place
 1	The Smith
 1	The Cow King
 1	Corpsefire
+1	Andariel Map
+1	Diablo Map
 2	warriv2
 2	atma
 2	drognan
@@ -105,6 +107,7 @@ Act	Place
 2	sarcophagus
 2	tyrael1
 2	skeleton5
+2	Duriel Map
 3	cain3
 3	place_champion
 3	act3male
@@ -144,6 +147,7 @@ Act	Place
 3	Toorc Icefist
 3	Wyand Voidfinger
 3	Maffer Dragonhand
+3	Mephisto Map
 4	place_champion
 4	trap-horzmissile
 4	trap-vertmissile
@@ -229,3 +233,4 @@ Act	Place
 5	place_nothing
 5	place_nothing
 5	horse
+5	Baal Map

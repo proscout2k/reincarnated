@@ -3470,11 +3470,16 @@ B Tier Random START	1																																																											
 	1			100	18	270	16		1	tss							c16			100																																																																																				0
 	1			100	18	270	17		1	tss							c17			100																																																																																				0
 	1			100	18	270	18		1	tss							c18			100																																																																																				0
-act1	1			100					1	tsc							Red Portal,qty=37																																																																																							0
-act2	1			100					2	tsc,qty=2							Red Portal,qty=73																																																																																							0
-act3	1			100					3	tsc,qty=3							Red Portal,qty=102																																																																																							0
-act4	1			100					4	tsc,qty=4							Red Portal,qty=108																																																																																							0
-act5	1			100					5	tsc,qty=5							Red Portal,qty=132																																																																																							0
-trist	1			100					6	tsc,qty=6							Red Portal,qty=38																																																																																							0
-cow	1			100					7	tsc,qty=7							Red Portal,qty=39																																																																																							0
+Map - Catacombs	1			100					1	m01							Red Portal,qty=137																																																																																							0
+Map - Lair of Pain	1			100					1	m02							Red Portal,qty=138																																																																																							0
+Map - Durance of Hate	1			100					1	m03							Red Portal,qty=139																																																																																							0
+Map - Terrorized Tristram	1			100					1	m04							Red Portal,qty=140																																																																																							0
+Map - Destruction Chamber	1			100					1	m05							Red Portal,qty=141																																																																																							0
+act1	0			100					1	tsc							Red Portal,qty=37																																																																																							0
+act2	0			100					2	tsc,qty=2							Red Portal,qty=73																																																																																							0
+act3	0			100					3	tsc,qty=3							Red Portal,qty=102																																																																																							0
+act4	0			100					4	tsc,qty=4							Red Portal,qty=108																																																																																							0
+act5	0			100					5	tsc,qty=5							Red Portal,qty=132																																																																																							0
+trist	0			100					6	tsc,qty=6							Red Portal,qty=38																																																																																							0
+cow	0			100					7	tsc,qty=7							Red Portal,qty=39																																																																																							0
 superstate charm	1			100					1	isc							supercharm1	99		99																										m01	99		99																																																							0
